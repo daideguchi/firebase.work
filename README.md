@@ -16,3 +16,4 @@ Asset Manager お金の管理ツール
 - 株価の取得について、国内の証券会社はAPIを公開しておらず、どうやってロジックを組むか考えるのに時間がかかった。
 
 ## URL
+https://daideguchi.github.io/firebase.work/
